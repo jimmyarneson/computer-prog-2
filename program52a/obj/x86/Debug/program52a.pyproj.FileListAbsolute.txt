@@ -1,0 +1,14 @@
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\program52a.exe.config
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\program52a.exe
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\program52a.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\IronPython.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\IronPython.Modules.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\IronPython.xml
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\bin\Debug\IronPython.Modules.xml
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\obj\x86\Debug\program52a.pyprojResolveAssemblyReference.cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\obj\x86\Debug\program52a.MainForm.resources
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\obj\x86\Debug\program52a.pyproj.GenerateResource.Cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\program52a\obj\x86\Debug\program52a.exe

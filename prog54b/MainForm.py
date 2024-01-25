@@ -42,6 +42,7 @@ class MainForm(Form):
 		self._button2.TabIndex = 1
 		self._button2.Text = "Clear"
 		self._button2.UseVisualStyleBackColor = True
+		self._button2.Click += self.Button2Click
 		# 
 		# button3
 		# 
@@ -51,6 +52,7 @@ class MainForm(Form):
 		self._button3.TabIndex = 2
 		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = True
+		self._button3.Click += self.Button3Click
 		# 
 		# label1
 		# 
@@ -159,11 +161,19 @@ class MainForm(Form):
 
 
 	def Button1Click(self, sender, e):
-		num1 = str(self._textBox1)
-		num2 = str(self._textBox2)
-		num3 = str(self._textBox3)
-		num4 = str(self._textBox4)
+		num1 = int(self._textBox1.Text)
+		num2 = int(self._textBox2.Text)
+		num3 = int(self._textBox3.Text)
+		num4 = int(self._textBox4.Text)
 		sum = num1 + num2 + num3 + num4
-		avg = str(sum) / 4
+		avg = int(sum) / 4.0
 		self._label5.Text = "Sum: " + str(sum)
 		self._label6.Text = "Average: " + str(avg)
+
+	def Button2Click(self, sender, e):
+		self._label5.Text = "Sum: "
+		self._label6.Text = "Average: "
+		
+
+	def Button3Click(self, sender, e):
+		Application.Exit()

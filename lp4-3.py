@@ -11,5 +11,5 @@ elif 6 < dozens <= 11:
   price = 0.40
 elif dozens > 11:
   price = 0.35
-total = round(int(dozens * eggs) / (remainder / price), 2)
+total = round(int(dozens * eggs) / (remainder / price), 2) / 2
 print("Total Cost: $" + str(total))

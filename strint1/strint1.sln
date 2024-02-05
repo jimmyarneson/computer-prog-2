@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "strint1", "strint1.pyproj", "{398DE479-5094-4F43-A479-FD0E30E052D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398DE479-5094-4F43-A479-FD0E30E052D6}.Debug|x86.Build.0 = Debug|x86
+		{398DE479-5094-4F43-A479-FD0E30E052D6}.Debug|x86.ActiveCfg = Debug|x86
+		{398DE479-5094-4F43-A479-FD0E30E052D6}.Release|x86.Build.0 = Release|x86
+		{398DE479-5094-4F43-A479-FD0E30E052D6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,3 +1,12 @@
-a = int(input("Enter a Number"))
-b = int(input("Enter a second number"))
+def computeGDC(x, y):
 
+  if x > y:
+    small = y
+  else:
+    small = x
+  for i in range(1, small + 1):
+    if((x % i==0) and (y % i == 0)):
+  return gcd
+
+a = (int(input("Enter a #: ")))
+b = (int(input("Enter a #: ")))

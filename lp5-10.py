@@ -1,12 +1,6 @@
-def computeGDC(x, y):
+import math 
 
-  if x > y:
-    small = y
-  else:
-    small = x
-  for i in range(1, small + 1):
-    if((x % i==0) and (y % i == 0)):
-  return gcd
-
-a = (int(input("Enter a #: ")))
-b = (int(input("Enter a #: ")))
+num1 = int(input("Enter a #: "))
+num2 = int(input("Enter another #"))
+hdf = math.gcd(num1, num2)
+print (f"The GDC of {num1} and {num2} is {hdf}.")

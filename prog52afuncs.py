@@ -2,8 +2,6 @@ import voidfunctions
 
 
 def calcArea(len, wid) -> int:
-
-  
   return len * wid
 
 def calcPerim(len: int, wid: int) -> int:

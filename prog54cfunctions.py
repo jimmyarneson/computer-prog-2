@@ -1,13 +1,13 @@
 def calcCircufrence(radius):
-  return 2 * 3.14159 * radius
+  return round(3.14159 * radius * 2, 3)
 
 def calcArea(radius):
-  return 3.14159 * radius ** 2
+  return round(3.14159 * radius ** 2, 3)
 
   
 def main():
-  radius = float(input("Enter the radius: "))
-  print(f"Circufrence: {calcCircufrence(radius)}\nArea: {calcArea(radius)}")
+  rad = float(input("Enter the radius: "))
+  print(f"Circufrence: {calcCircufrence(rad)}\nArea: {calcArea(rad)}")
   pass
 
 

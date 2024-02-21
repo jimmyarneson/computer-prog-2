@@ -10,9 +10,20 @@ class fortnite:
     3.14 * 2 ** self.radius
 
   def radius(radius):
-    print(float(st))
+    print(float(str))
+
+  def getCircufrence(circufrence):
+    return self.circufrence
+
+  def getArea(area):
+    return self.area
     
   def main():
+    rad = float(input("Enter the Radius: "))
+    fortnite = fortnite(rad)
+    fortnite.calculate()
+    print("Area: ", fortnite.getArea())
+    print("Circufrence: ", fortnite.getCircufrence())
 
     pass
 

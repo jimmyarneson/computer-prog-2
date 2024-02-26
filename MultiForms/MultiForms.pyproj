@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{E7572FC8-4917-459E-889F-8F2533083361}</ProjectGuid>
+    <ProjectGuid>{A99DE7EF-EEA4-463B-AF19-4CCB9E875BB4}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <RootNamespace>strint3</RootNamespace>
-    <AssemblyName>strint3</AssemblyName>
+    <RootNamespace>MultiForms</RootNamespace>
+    <AssemblyName>MultiForms</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -20,7 +20,7 @@
     <MainFile>Program.py</MainFile>
     <StartArguments>-X:Debug Program.py</StartArguments>
     <StartWorkingDirectory>.\</StartWorkingDirectory>
-    <StartAction>Project</StartAction>
+    <StartAction>Program</StartAction>
     <StartProgram>C:\Users\arneson.j1\Downloads\SharpDevelop\SharpDevelop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
@@ -59,13 +59,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form1.py" />
     <Compile Include="MainForm.py" />
     <Compile Include="Program.py" />
+    <Compile Include="Secondform.py" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.py</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.py</DependentUpon>
     </EmbeddedResource>

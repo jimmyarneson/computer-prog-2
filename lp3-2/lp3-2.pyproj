@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <RootNamespace>lp3_2</RootNamespace>
     <AssemblyName>lp3-2</AssemblyName>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -20,7 +21,7 @@
     <MainFile>Program.py</MainFile>
     <StartArguments>-X:Debug Program.py</StartArguments>
     <StartWorkingDirectory>.\</StartWorkingDirectory>
-    <StartAction>Program</StartAction>
+    <StartAction>Project</StartAction>
     <StartProgram>C:\Users\arneson.j1\Downloads\SharpDevelop\SharpDevelop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
@@ -60,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainForm.py" />
+    <Compile Include="pizza.py" />
     <Compile Include="Program.py" />
   </ItemGroup>
   <ItemGroup>

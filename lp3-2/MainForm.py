@@ -44,7 +44,6 @@ class MainForm(Form):
 		self._label2.Name = "label2"
 		self._label2.Size = System.Drawing.Size(345, 73)
 		self._label2.TabIndex = 2
-		self._label2.Text = "label2"
 		# 
 		# button1
 		# 
@@ -55,6 +54,7 @@ class MainForm(Form):
 		self._button1.TabIndex = 3
 		self._button1.Text = "Calculate"
 		self._button1.UseVisualStyleBackColor = True
+		self._button1.Click += self.Button1Click
 		# 
 		# button2
 		# 
@@ -65,6 +65,7 @@ class MainForm(Form):
 		self._button2.TabIndex = 4
 		self._button2.Text = "Clear"
 		self._button2.UseVisualStyleBackColor = True
+		self._button2.Click += self.Button2Click
 		# 
 		# button3
 		# 
@@ -75,6 +76,7 @@ class MainForm(Form):
 		self._button3.TabIndex = 5
 		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = True
+		self._button3.Click += self.Button3Click
 		# 
 		# MainForm
 		# 
@@ -91,3 +93,17 @@ class MainForm(Form):
 		self.ResumeLayout(False)
 		self.PerformLayout()
 
+
+	def Button1Click(self, sender, e):
+		num1 = int(self._textBox1.Text)
+		from pizza import *
+		obj1 = pizza(num1)
+		obj1.calculate()
+		self._label2.Text = "Total cost of pizza: " + str(obj1.getTotal())
+
+	def Button2Click(self, sender, e):
+		self._textBox1.Text = ""
+		self._label2.Text = ""
+
+	def Button3Click(self, sender, e):
+		Application.Exit()

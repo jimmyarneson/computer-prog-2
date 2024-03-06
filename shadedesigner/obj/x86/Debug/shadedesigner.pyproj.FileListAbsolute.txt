@@ -1,0 +1,14 @@
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\shadedesigner.exe.config
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\shadedesigner.exe
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\shadedesigner.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\IronPython.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\IronPython.Modules.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\Microsoft.Scripting.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\IronPython.xml
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\bin\Debug\IronPython.Modules.xml
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\obj\x86\Debug\shadedesigner.pyprojResolveAssemblyReference.cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\obj\x86\Debug\shadedesigner.MainForm.resources
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\obj\x86\Debug\shadedesigner.pyproj.GenerateResource.Cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\shadedesigner\obj\x86\Debug\shadedesigner.exe

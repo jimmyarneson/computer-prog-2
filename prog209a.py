@@ -1,8 +1,13 @@
+from CL209a import *
+
 def main():
   try:
-      with open("Langdat/prog213f.dat", 'r') as f:
+      nums = []
+      with open("Langdat/prog215a.dat", 'r') as f:
         for line in f:
-            ldat = line.split(" ")
+            nums.append(int(line))
+      
+            
 
   except Exception as e:
       print("Error:", e)

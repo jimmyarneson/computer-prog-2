@@ -1,0 +1,15 @@
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\bin\Debug\net6.0\FavoriteClub.exe
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\bin\Debug\net6.0\FavoriteClub.deps.json
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\bin\Debug\net6.0\FavoriteClub.runtimeconfig.json
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\bin\Debug\net6.0\FavoriteClub.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\bin\Debug\net6.0\ref\FavoriteClub.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\bin\Debug\net6.0\FavoriteClub.pdb
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\FavoriteClub.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\FavoriteClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\FavoriteClub.AssemblyInfoInputs.cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\FavoriteClub.AssemblyInfo.cs
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\FavoriteClub.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\FavoriteClub.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\ref\FavoriteClub.dll
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\FavoriteClub.pdb
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\CSharp\FavoriteClub\obj\Debug\net6.0\FavoriteClub.genruntimeconfig.cache

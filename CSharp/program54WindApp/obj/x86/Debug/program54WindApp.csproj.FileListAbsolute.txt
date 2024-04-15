@@ -1,0 +1,7 @@
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\program54WindApp\obj\x86\Debug\program54WindApp.csprojResolveAssemblyReference.cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\program54WindApp\obj\x86\Debug\program54WindApp.MainForm.resources
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\program54WindApp\obj\x86\Debug\program54WindApp.csproj.GenerateResource.Cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\program54WindApp\bin\Debug\program54WindApp.exe
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\program54WindApp\bin\Debug\program54WindApp.pdb
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\program54WindApp\obj\x86\Debug\program54WindApp.exe
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\program54WindApp\obj\x86\Debug\program54WindApp.pdb

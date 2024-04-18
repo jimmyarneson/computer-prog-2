@@ -1,0 +1,3 @@
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.csprojResolveAssemblyReference.cache
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.MainForm.resources
+C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.csproj.GenerateResource.Cache

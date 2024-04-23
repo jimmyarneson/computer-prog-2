@@ -1,0 +1,15 @@
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\bin\Debug\net6.0\LP4-2.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\bin\Debug\net6.0\LP4-2.deps.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\bin\Debug\net6.0\LP4-2.runtimeconfig.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\bin\Debug\net6.0\LP4-2.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\bin\Debug\net6.0\ref\LP4-2.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\bin\Debug\net6.0\LP4-2.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.AssemblyInfoInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.AssemblyInfo.cs
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\ref\LP4-2.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\LP4-2\obj\Debug\net6.0\LP4-2.genruntimeconfig.cache

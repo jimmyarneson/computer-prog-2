@@ -1,3 +1,11 @@
 C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.csprojResolveAssemblyReference.cache
 C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.MainForm.resources
 C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.csproj.GenerateResource.Cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.MainForm.resources
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.csproj.GenerateResource.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54bForm\bin\Debug\prog54bForm.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54bForm\bin\Debug\prog54bForm.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54bForm\obj\x86\Debug\prog54bForm.pdb

@@ -32,16 +32,27 @@ namespace prog54bForm
 		
 		void Button1Click(object sender, EventArgs e)
 		{
-			int num1 = int.Parse(textBox1);
-			int num2 = int.Parse(textBox2);
-			int num3 = int.Parse(textBox3);
-			int num4 = int.Parse(textBox4);
+			int num1 = int.Parse(textBox1.Text);
+			int num2 = int.Parse(textBox2.Text);
+			int num3 = int.Parse(textBox3.Text);
+			int num4 = int.Parse(textBox4.Text);
 			
 			int tot = num1 + num2 + num3 + num4;
 			double avg = (double)tot / 4;
 			
-			label2.Text=tot.ToString;
-			label3.Text=avg.ToString;
+			label2.Text=tot.ToString();
+			label3.Text=avg.ToString();
 		}
-	}
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+			label2.Text = "";
+			label3.Text = "";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+			Application.Exit();
+        }
+    }
 }

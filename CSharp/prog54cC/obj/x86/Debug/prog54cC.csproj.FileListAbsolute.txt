@@ -3,3 +3,9 @@ C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54cC\bin\De
 C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54cC\obj\x86\Debug\prog54cC.csprojResolveAssemblyReference.cache
 C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54cC\obj\x86\Debug\prog54cC.exe
 C:\Users\arneson.j1\Desktop\Programming-1\computer-prog-2\CSharp\prog54cC\obj\x86\Debug\prog54cC.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54cC\bin\Debug\prog54cC.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54cC\bin\Debug\prog54cC.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54cC\obj\x86\Debug\prog54cC.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54cC\obj\x86\Debug\prog54cC.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54cC\obj\x86\Debug\prog54cC.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\prog54cC\obj\x86\Debug\prog54cC.pdb

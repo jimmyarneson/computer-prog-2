@@ -25,7 +25,27 @@
       "ProjectGuid": "89c9aaa2-c464-4cf4-a65b-34fededc0867",
       "DisplayName": "Lang54bForm",
       "ColorIndex": 3
+    },
+    "006a137e-3f50-45cd-921f-83905585f0fb": {
+      "ProjectGuid": "006a137e-3f50-45cd-921f-83905585f0fb",
+      "DisplayName": "LP4-2",
+      "ColorIndex": 4
+    },
+    "07937ebb-5b33-471e-9ac2-d1416cd166ba": {
+      "ProjectGuid": "07937ebb-5b33-471e-9ac2-d1416cd166ba",
+      "DisplayName": "About ME",
+      "ColorIndex": 5
+    },
+    "8062e3d6-d6af-4745-adaa-59a33e0deabc": {
+      "ProjectGuid": "8062e3d6-d6af-4745-adaa-59a33e0deabc",
+      "DisplayName": "LP4-5",
+      "ColorIndex": 6
+    },
+    "187a4c41-f7b7-4f86-b917-e3146f29a4e2": {
+      "ProjectGuid": "187a4c41-f7b7-4f86-b917-e3146f29a4e2",
+      "DisplayName": "prog85c",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 8
 }

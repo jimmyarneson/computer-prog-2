@@ -1,0 +1,17 @@
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.Form1.resources
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.csproj.GenerateResource.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.AssemblyInfoInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.AssemblyInfo.cs
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\bin\Debug\net6.0-windows\prog85c.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\bin\Debug\net6.0-windows\prog85c.deps.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\bin\Debug\net6.0-windows\prog85c.runtimeconfig.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\bin\Debug\net6.0-windows\prog85c.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\bin\Debug\net6.0-windows\ref\prog85c.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\bin\Debug\net6.0-windows\prog85c.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\ref\prog85c.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog85c\obj\Debug\net6.0-windows\prog85c.genruntimeconfig.cache

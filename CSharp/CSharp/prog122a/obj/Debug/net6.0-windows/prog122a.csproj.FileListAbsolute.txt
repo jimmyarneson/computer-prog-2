@@ -1,0 +1,17 @@
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\bin\Debug\net6.0-windows\prog122a.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\bin\Debug\net6.0-windows\prog122a.deps.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\bin\Debug\net6.0-windows\prog122a.runtimeconfig.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\bin\Debug\net6.0-windows\prog122a.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\bin\Debug\net6.0-windows\ref\prog122a.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\bin\Debug\net6.0-windows\prog122a.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.Form1.resources
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.csproj.GenerateResource.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.AssemblyInfoInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.AssemblyInfo.cs
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\ref\prog122a.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog122a\obj\Debug\net6.0-windows\prog122a.genruntimeconfig.cache

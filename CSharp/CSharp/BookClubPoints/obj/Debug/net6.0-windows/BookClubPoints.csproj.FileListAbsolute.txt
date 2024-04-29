@@ -1,0 +1,17 @@
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\bin\Debug\net6.0-windows\BookClubPoints.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\bin\Debug\net6.0-windows\BookClubPoints.deps.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\bin\Debug\net6.0-windows\BookClubPoints.runtimeconfig.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\bin\Debug\net6.0-windows\BookClubPoints.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\bin\Debug\net6.0-windows\ref\BookClubPoints.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\bin\Debug\net6.0-windows\BookClubPoints.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.Form1.resources
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.csproj.GenerateResource.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.AssemblyInfoInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.AssemblyInfo.cs
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\ref\BookClubPoints.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\BookClubPoints\obj\Debug\net6.0-windows\BookClubPoints.genruntimeconfig.cache

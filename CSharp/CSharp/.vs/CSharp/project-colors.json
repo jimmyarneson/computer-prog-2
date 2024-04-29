@@ -45,7 +45,32 @@
       "ProjectGuid": "187a4c41-f7b7-4f86-b917-e3146f29a4e2",
       "DisplayName": "prog85c",
       "ColorIndex": 7
+    },
+    "19920a51-bf5c-46b3-a24b-bab90a8bd32f": {
+      "ProjectGuid": "19920a51-bf5c-46b3-a24b-bab90a8bd32f",
+      "DisplayName": "pg266LargeSmall",
+      "ColorIndex": 8
+    },
+    "e6f050ea-438c-4a45-94bd-cf3b48d9cbdd": {
+      "ProjectGuid": "e6f050ea-438c-4a45-94bd-cf3b48d9cbdd",
+      "DisplayName": "BookClubPoints",
+      "ColorIndex": 9
+    },
+    "c4ddee8f-0bd4-41d8-9123-e3d60e9d91e2": {
+      "ProjectGuid": "c4ddee8f-0bd4-41d8-9123-e3d60e9d91e2",
+      "DisplayName": "Mass and weight",
+      "ColorIndex": 10
+    },
+    "7e6f3454-281d-458a-a94a-c705569861f9": {
+      "ProjectGuid": "7e6f3454-281d-458a-a94a-c705569861f9",
+      "DisplayName": "prog122a",
+      "ColorIndex": 11
+    },
+    "40ffa56a-dbd3-4c98-83e1-af0bfe7e93dd": {
+      "ProjectGuid": "40ffa56a-dbd3-4c98-83e1-af0bfe7e93dd",
+      "DisplayName": "Mass and Weight Windows",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 13
 }

@@ -1,0 +1,17 @@
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\bin\Debug\net6.0-windows\Mass and Weight Windows.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\bin\Debug\net6.0-windows\Mass and Weight Windows.deps.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\bin\Debug\net6.0-windows\Mass and Weight Windows.runtimeconfig.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\bin\Debug\net6.0-windows\Mass and Weight Windows.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\bin\Debug\net6.0-windows\ref\Mass and Weight Windows.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\bin\Debug\net6.0-windows\Mass and Weight Windows.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass_and_Weight_Windows.Form1.resources
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.csproj.GenerateResource.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.AssemblyInfoInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.AssemblyInfo.cs
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\ref\Mass and Weight Windows.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\Mass and Weight Windows\obj\Debug\net6.0-windows\Mass and Weight Windows.genruntimeconfig.cache

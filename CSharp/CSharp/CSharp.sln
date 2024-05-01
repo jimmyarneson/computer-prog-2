@@ -25,9 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookClubPoints", "BookClubP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mass and weight", "Mass and weight\Mass and weight.csproj", "{C4DDEE8F-0BD4-41D8-9123-E3D60E9D91E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog122a", "prog122a\prog122a.csproj", "{7E6F3454-281D-458A-A94A-C705569861F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prog122a", "prog122a\prog122a.csproj", "{7E6F3454-281D-458A-A94A-C705569861F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mass and Weight Windows", "Mass and Weight Windows\Mass and Weight Windows.csproj", "{40FFA56A-DBD3-4C98-83E1-AF0BFE7E93DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mass and Weight Windows", "Mass and Weight Windows\Mass and Weight Windows.csproj", "{40FFA56A-DBD3-4C98-83E1-AF0BFE7E93DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prog310a", "prog310a\prog310a.csproj", "{FA30ED3A-5503-4B61-BFBD-1339C06683A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg347Sum", "Pg347Sum\Pg347Sum.csproj", "{1DD837D7-1107-45DA-88B1-C81D2A4E065A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lang122bWhile", "lang122bWhile\lang122bWhile.csproj", "{5131ABB8-93B7-428F-8901-12A723729238}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{40FFA56A-DBD3-4C98-83E1-AF0BFE7E93DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40FFA56A-DBD3-4C98-83E1-AF0BFE7E93DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40FFA56A-DBD3-4C98-83E1-AF0BFE7E93DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA30ED3A-5503-4B61-BFBD-1339C06683A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA30ED3A-5503-4B61-BFBD-1339C06683A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA30ED3A-5503-4B61-BFBD-1339C06683A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA30ED3A-5503-4B61-BFBD-1339C06683A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DD837D7-1107-45DA-88B1-C81D2A4E065A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD837D7-1107-45DA-88B1-C81D2A4E065A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD837D7-1107-45DA-88B1-C81D2A4E065A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD837D7-1107-45DA-88B1-C81D2A4E065A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5131ABB8-93B7-428F-8901-12A723729238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5131ABB8-93B7-428F-8901-12A723729238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5131ABB8-93B7-428F-8901-12A723729238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5131ABB8-93B7-428F-8901-12A723729238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

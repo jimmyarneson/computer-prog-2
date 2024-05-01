@@ -70,7 +70,22 @@
       "ProjectGuid": "40ffa56a-dbd3-4c98-83e1-af0bfe7e93dd",
       "DisplayName": "Mass and Weight Windows",
       "ColorIndex": 12
+    },
+    "fa30ed3a-5503-4b61-bfbd-1339c06683a7": {
+      "ProjectGuid": "fa30ed3a-5503-4b61-bfbd-1339c06683a7",
+      "DisplayName": "prog310a",
+      "ColorIndex": 13
+    },
+    "1dd837d7-1107-45da-88b1-c81d2a4e065a": {
+      "ProjectGuid": "1dd837d7-1107-45da-88b1-c81d2a4e065a",
+      "DisplayName": "Pg347Sum",
+      "ColorIndex": 14
+    },
+    "5131abb8-93b7-428f-8901-12a723729238": {
+      "ProjectGuid": "5131abb8-93b7-428f-8901-12a723729238",
+      "DisplayName": "lang122bWhile",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 0
 }

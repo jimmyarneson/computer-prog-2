@@ -1,0 +1,17 @@
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\bin\Debug\net6.0-windows\lang122bWhile.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\bin\Debug\net6.0-windows\lang122bWhile.deps.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\bin\Debug\net6.0-windows\lang122bWhile.runtimeconfig.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\bin\Debug\net6.0-windows\lang122bWhile.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\bin\Debug\net6.0-windows\ref\lang122bWhile.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\bin\Debug\net6.0-windows\lang122bWhile.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.Form1.resources
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.csproj.GenerateResource.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.AssemblyInfoInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.AssemblyInfo.cs
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\ref\lang122bWhile.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\lang122bWhile\obj\Debug\net6.0-windows\lang122bWhile.genruntimeconfig.cache

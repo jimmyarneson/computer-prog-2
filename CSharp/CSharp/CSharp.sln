@@ -35,7 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pg347Sum", "Pg347Sum\Pg347S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lang122bWhile", "lang122bWhile\lang122bWhile.csproj", "{5131ABB8-93B7-428F-8901-12A723729238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "122d", "122d\122d.csproj", "{21AD595E-48CE-4172-B151-F8E8732F04B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "122d", "122d\122d.csproj", "{21AD595E-48CE-4172-B151-F8E8732F04B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{FDFF1E14-4B9A-481F-982C-42A2046EF254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog366b", "prog366b\prog366b.csproj", "{045C7032-788C-4CC9-989F-E1F7A03EB56B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +115,14 @@ Global
 		{21AD595E-48CE-4172-B151-F8E8732F04B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21AD595E-48CE-4172-B151-F8E8732F04B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21AD595E-48CE-4172-B151-F8E8732F04B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFF1E14-4B9A-481F-982C-42A2046EF254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFF1E14-4B9A-481F-982C-42A2046EF254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFF1E14-4B9A-481F-982C-42A2046EF254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFF1E14-4B9A-481F-982C-42A2046EF254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045C7032-788C-4CC9-989F-E1F7A03EB56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045C7032-788C-4CC9-989F-E1F7A03EB56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045C7032-788C-4CC9-989F-E1F7A03EB56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045C7032-788C-4CC9-989F-E1F7A03EB56B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

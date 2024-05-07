@@ -1,0 +1,17 @@
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\bin\Debug\net6.0-windows\prog366b.exe
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\bin\Debug\net6.0-windows\prog366b.deps.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\bin\Debug\net6.0-windows\prog366b.runtimeconfig.json
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\bin\Debug\net6.0-windows\prog366b.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\bin\Debug\net6.0-windows\ref\prog366b.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\bin\Debug\net6.0-windows\prog366b.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.csproj.AssemblyReference.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.Form1.resources
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.csproj.GenerateResource.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.AssemblyInfoInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.AssemblyInfo.cs
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.csproj.CoreCompileInputs.cache
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\ref\prog366b.dll
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.pdb
+C:\Users\arneson.j1\Documents\GitHub\computer-prog-2\CSharp\CSharp\prog366b\obj\Debug\net6.0-windows\prog366b.genruntimeconfig.cache

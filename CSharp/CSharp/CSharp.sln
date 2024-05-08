@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "122d", "122d\122d.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{FDFF1E14-4B9A-481F-982C-42A2046EF254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog366b", "prog366b\prog366b.csproj", "{045C7032-788C-4CC9-989F-E1F7A03EB56B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "prog366b", "prog366b\prog366b.csproj", "{045C7032-788C-4CC9-989F-E1F7A03EB56B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg435ticketSales", "pg435ticketSales\pg435ticketSales.csproj", "{FA6CCFDF-01F6-48AE-A326-FF5969D2A4D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{045C7032-788C-4CC9-989F-E1F7A03EB56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{045C7032-788C-4CC9-989F-E1F7A03EB56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{045C7032-788C-4CC9-989F-E1F7A03EB56B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6CCFDF-01F6-48AE-A326-FF5969D2A4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6CCFDF-01F6-48AE-A326-FF5969D2A4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6CCFDF-01F6-48AE-A326-FF5969D2A4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6CCFDF-01F6-48AE-A326-FF5969D2A4D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

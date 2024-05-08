@@ -95,7 +95,17 @@
       "ProjectGuid": "fdff1e14-4b9a-481f-982c-42a2046ef254",
       "DisplayName": "CalcWithFunctions",
       "ColorIndex": 1
+    },
+    "045c7032-788c-4cc9-989f-e1f7a03eb56b": {
+      "ProjectGuid": "045c7032-788c-4cc9-989f-e1f7a03eb56b",
+      "DisplayName": "prog366b",
+      "ColorIndex": 2
+    },
+    "fa6ccfdf-01f6-48ae-a326-ff5969d2a4d8": {
+      "ProjectGuid": "fa6ccfdf-01f6-48ae-a326-ff5969d2a4d8",
+      "DisplayName": "pg435ticketSales",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

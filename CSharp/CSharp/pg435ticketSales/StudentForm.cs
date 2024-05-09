@@ -35,5 +35,27 @@ namespace pg435ticketSales
         {
             return cost * decTAXRATE;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int numtickets = 0;
+            decimal decTicketCost = 7.0m;
+            decimal decSalesTax = 0.0m;
+            decimal decTotal = 0.0m;
+
+            numtickets = int.Parse(textBox1.Text);
+            decTicketCost = numtickets * decTicketCost;
+            decSalesTax = CalcTax(decTicketCost);
+            decTotal = decTicketCost + decSalesTax;
+
+            label5.Text = decTicketCost.ToString("$.00");
+            label6.Text = decSalesTax.ToString("$.00");
+            label7.Text = decTotal.ToString("$.00");
+        }
     }
 }

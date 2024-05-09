@@ -39,6 +39,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.button1);
             this.groupBox1.Controls.Add(this.label2);
@@ -46,14 +47,14 @@
             this.groupBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(398, 159);
+            this.groupBox1.Size = new System.Drawing.Size(460, 244);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "Select the Type of Ticket Sales";
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(295, 100);
+            this.button2.Location = new System.Drawing.Point(357, 178);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(97, 53);
             this.button2.TabIndex = 3;
@@ -63,7 +64,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(295, 22);
+            this.button1.Location = new System.Drawing.Point(357, 28);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(97, 55);
             this.button1.TabIndex = 2;
@@ -73,15 +74,15 @@
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(6, 76);
+            this.label2.Location = new System.Drawing.Point(64, 178);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(249, 60);
             this.label2.TabIndex = 1;
-            this.label2.Text = "label2";
+            this.label2.Text = "Select Student Sales for all studen ticket sales";
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(6, 22);
+            this.label1.Location = new System.Drawing.Point(64, 29);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(249, 54);
             this.label1.TabIndex = 0;
@@ -91,9 +92,9 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button3.Location = new System.Drawing.Point(324, 272);
+            this.button3.Location = new System.Drawing.Point(375, 290);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(86, 48);
+            this.button3.Size = new System.Drawing.Size(97, 59);
             this.button3.TabIndex = 1;
             this.button3.Text = "Exit";
             this.button3.UseVisualStyleBackColor = true;
@@ -103,7 +104,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(422, 332);
+            this.BackColor = System.Drawing.Color.Yellow;
+            this.ClientSize = new System.Drawing.Size(484, 361);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";

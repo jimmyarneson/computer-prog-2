@@ -105,7 +105,22 @@
       "ProjectGuid": "fa6ccfdf-01f6-48ae-a326-ff5969d2a4d8",
       "DisplayName": "pg435ticketSales",
       "ColorIndex": 3
+    },
+    "e2b62379-0833-443a-8b13-bf6eb16b418c": {
+      "ProjectGuid": "e2b62379-0833-443a-8b13-bf6eb16b418c",
+      "DisplayName": "pg334LoanCalculator",
+      "ColorIndex": 4
+    },
+    "62b121f9-6fba-40d6-8583-7f335c8c9dc5": {
+      "ProjectGuid": "62b121f9-6fba-40d6-8583-7f335c8c9dc5",
+      "DisplayName": "catchme",
+      "ColorIndex": 5
+    },
+    "bd0399d3-73b0-4fa3-9a96-7ab185807a66": {
+      "ProjectGuid": "bd0399d3-73b0-4fa3-9a96-7ab185807a66",
+      "DisplayName": "pg498Payroll",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }
